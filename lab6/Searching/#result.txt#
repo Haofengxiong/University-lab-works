@@ -1,0 +1,5 @@
+	Sequentia 	Binary
+Is the data sorted? 	yes/no 	yes/no
+How many loops are made to find the first item (index 0)? 	  	 
+How many loops are made to find the middle item (index 49)? 	  	 
+How many loops are made to find the last item (index 99)? 	  	 

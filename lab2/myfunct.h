@@ -1,0 +1,11 @@
+#include<iostream>
+
+using namespace std;
+
+
+const int r_size=4;
+const int c_size=5; 
+
+void readArray( int r_Array[][c_size] );
+void printArray( int p_Array[][c_size] );
+void sumArray( int Array_1[][c_size],int Array_2[][c_size],int s_Array[][c_size] );
